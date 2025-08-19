@@ -3,7 +3,7 @@
 -->
 
 ### Hi there, I’m Aiza Shafqat 👋  
-_A Computer Science Student | UI/UX Designer | Aspiring Android Developer_
+_A Computer Science Student | UI/UX Designer | Aspiring Android Developer| React native
 
 ---
 
